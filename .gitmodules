@@ -1,0 +1,3 @@
+[submodule "seloc-frontend"]
+	path = seloc-frontend
+	url = ./seloc-frontend
