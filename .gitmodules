@@ -1,3 +1,6 @@
-[submodule "seloc-frontend"]
-	path = seloc-frontend
-	url = ./seloc-frontend
+[submodule "letstalk-frontend"]
+	path = letstalk-frontend
+	url = https://github.com/keithtanzihao/letstalk-frontend.git
+[submodule "letstalk-backend"]
+	path = letstalk-backend
+	url = https://github.com/keithtanzihao/letstalk-backend.git
